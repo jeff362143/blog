@@ -1,7 +1,4 @@
-# vue_demo
-
-> A Vue.js project
-
+# vu-cli project
 ## Build Setup
 
 ``` bash
