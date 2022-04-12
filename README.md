@@ -1,4 +1,4 @@
-# vu-cli project
+# vue-cli project
 ## Build Setup
 
 ``` bash
